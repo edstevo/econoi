@@ -1,5 +1,5 @@
 const Gpio  = require('onoff').Gpio;
-const relay = new Gpio(21, 'out');
+const relay = new Gpio(26, 'out');
 
 let value = 1;
 
