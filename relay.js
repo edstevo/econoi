@@ -6,6 +6,7 @@ let value = 1;
 setInterval(function () {
 
     value   = !value;
+    console.log("Value = " + value);
 
     relay.writeSync(value);
 
