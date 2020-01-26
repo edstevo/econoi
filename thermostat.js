@@ -1,6 +1,6 @@
 const Gpio = require('onoff').Gpio;
 
-setTimeout(function () {
+setInterval(function () {
 
     console.log("here");
 }, 5000);
