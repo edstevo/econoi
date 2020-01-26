@@ -40,14 +40,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="374" />
+          <entry key="js" value="378" />
           <entry key="json" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="15" />
-          <entry key="JavaScript" value="374" />
+          <entry key="JavaScript" value="378" />
         </counts>
       </usages-collector>
     </session>
@@ -76,7 +76,7 @@
         <entry file="file://$PROJECT_DIR$/relay.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+              <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -191,12 +191,12 @@
       <option name="presentableId" value="Default" />
       <updated>1579799377348</updated>
       <workItem from="1579799392533" duration="44000" />
-      <workItem from="1579799464134" duration="6732000" />
+      <workItem from="1579799464134" duration="6798000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6776000" />
+    <option name="totallyTimeSpent" value="6842000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -278,7 +278,7 @@
     <entry file="file://$PROJECT_DIR$/relay.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
         </state>
       </provider>
     </entry>
