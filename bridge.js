@@ -3,7 +3,7 @@ const client    = mqtt.connect('mqtt://test.mosquitto.org')
 
 client.on("connect", () => {
 
-    client.subscribe("ines-presence", () => {
+    client.subscribe("ines-presence", (err) => {
 
         if (!err) {
             client.publish('ines-presence', 'Hello mqtt')
